@@ -20,7 +20,7 @@
         <h3 class="col-12 m-0 mb-1">ID: <span id="txt">Error</span> </h3>
         <div class="col-12 m-0 p-0"><small class="text-danger text-center m-0"><i class="fa-solid fa-quote-left"></i><span> Time Won't Let .... Go! </span></small></div>
     </header>
-    <p>
+    <p class="p-3">
         This is a simple Telegram mini app template using PHP and vanilla JS. This template helps to extract data from user request safely.
     </p>
     <div class="h-100 mt-3">
